@@ -1,12 +1,10 @@
-![Description of Image](https://i.pinimg.com/564x/f8/72/c1/f872c198f4a9f6d46056eba93c176e1d.jpg)
-
-
-
-
 ### Hi there 👋
 
 
 **jectgenius/jectgenius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+![Description of Image](https://i.pinimg.com/564x/f8/72/c1/f872c198f4a9f6d46056eba93c176e1d.jpg)
+![image](https://github.com/user-attachments/assets/0851e624-d824-4d33-8894-96f44b92cf90)
 
 Here are some ideas to get you started:
 
