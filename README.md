@@ -3,6 +3,27 @@
 
 **jectgenius/jectgenius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+![image](https://github.com/user-attachments/assets/5c4393cc-fb46-43c5-9996-3c6dfd897e82)
+
+![image](https://github.com/user-attachments/assets/e6d91ae3-a804-4e90-aff5-31319a039f1f)
+
+![image](https://github.com/user-attachments/assets/a258f822-5888-48b4-93f4-e370fe657d0c)
+
+![image](https://github.com/user-attachments/assets/8e26788a-15c6-4323-914e-decb51e8f398)
+
+![image](https://github.com/user-attachments/assets/5a91463f-29a5-4215-a27f-884572d74f95)
+
+![image](https://github.com/user-attachments/assets/9f63f06e-a4a2-4629-8cef-5f8886768ed0)
+
+![image](https://github.com/user-attachments/assets/38859a0b-9fc9-4385-b9e6-4174dd76f8d3)
+
+![image](https://github.com/user-attachments/assets/6bd9d112-5447-4f76-abd1-ca5e4046dceb)
+
+![image](https://github.com/user-attachments/assets/22723a37-7496-43b2-92b0-6d0c82dbc65d)
+
+![image](https://github.com/user-attachments/assets/492d572f-e9fe-496d-91d1-211651603992)
+
+
 ![Description of Image](https://i.pinimg.com/564x/f8/72/c1/f872c198f4a9f6d46056eba93c176e1d.jpg)
 
 ![image](https://github.com/user-attachments/assets/810eb405-a46d-436f-90f0-f3c0e0f793b1)
