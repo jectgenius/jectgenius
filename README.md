@@ -3,6 +3,10 @@
 
 **jectgenius/jectgenius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+![image](https://github.com/user-attachments/assets/0fc4de27-e496-4390-88c1-73d77891e059)
+
+![image](https://github.com/user-attachments/assets/3ddad77e-8e6d-4843-8b66-7837b7680ed5)
+
 ![image](https://github.com/user-attachments/assets/5c4393cc-fb46-43c5-9996-3c6dfd897e82)
 
 ![image](https://github.com/user-attachments/assets/e6d91ae3-a804-4e90-aff5-31319a039f1f)
